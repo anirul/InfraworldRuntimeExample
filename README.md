@@ -1,4 +1,4 @@
-# Vizor Infraworld exapmle
+# Vizor Infraworld example
 
 ## Overview
 Welcome to the **Infraworld Runtime** example project. The main goal of this tutorial is to show you how to get Infraworld sources, to generate *grpc/protobuf* and *protocol/transport* code using **Infraworld Protobuild** tool, to generate Unreal Engine friendly code with **Infraworld Cornestone** and finnaly how to connect all this stuff together to integrate **InfraworldRuntime** plugin into your UE project.
